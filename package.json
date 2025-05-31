@@ -1,6 +1,5 @@
 {
-	"homepage": "https://alexh893.github.io/<your-repo-name>"
-
+	"homepage": "https://alexh893.github.io/search-strings",
 	"name": "flowbite-svelte-starter",
 	"version": "0.1.3",
 	"description": "Flowbite-Svelte starter kit",
